@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/emmarex/plantdisease
+https://github.com/pratikkayal/PlantDoc-Dataset
+https://data.mendeley.com/datasets/tywbtsjrjv/1
